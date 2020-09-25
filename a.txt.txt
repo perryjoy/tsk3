@@ -1,0 +1,41 @@
+NumOfWindows 2
+WindowBegin
+  Position 0 0
+  Color 30 50 70
+  NumOfButtons 3
+  ButtonBegin
+    Position 0 0
+    Color 70 50 30
+    SelectedColor 0 50 30
+    Name a0
+  ButtonEnd
+  ButtonBegin
+    Position 47 102
+    Color 70 70 10
+    SelectedColor 0 50 30
+    Name a1
+  ButtonEnd
+  ButtonBegin
+    Position 102 13
+    Color 70 0 90
+    SelectedColor 0 50 30
+    Name a2
+  ButtonEnd
+WindowEnd
+WindowBegin
+  Position 300 150
+  Color 30 10 40
+  NumOfButtons 2
+  ButtonBegin
+    Position 0 0
+    Color 70 50 30
+    SelectedColor 100 50 30
+    Name cgsg
+  ButtonEnd
+  ButtonBegin
+    Position 0 67
+    Color 10 0 30
+    SelectedColor 100 50 30
+    Name cgsg30
+  ButtonEnd
+WindowEnd
