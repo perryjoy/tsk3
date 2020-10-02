@@ -3,7 +3,7 @@
 #include "render.h"
 #include "units.h"
 
-class ANIM : public virtual WIN, public virtual RENDER {
+class ANIM : public WIN, public RENDER {
    std::vector<UNIT *> units;
 
 public:
